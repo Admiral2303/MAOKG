@@ -1,6 +1,6 @@
 ## Математичні та алгоритмічні основи компютерної графіки <br><br> Лабораторні роботи **варіант № 23**
 - [**Lab №1**](https://github.com/Admiral2303/MAOKG/tree/master/lab1)
-![Screenshots](https://github.com/Admiral2303/MAOKG/tree/master/lab1/img.PNG)
+![Screenshots](https://github.com/Admiral2303/MAOKG/blob/master/lab1/img.PNG?raw=true)
 
 - [**Lab №2**](https://github.com/Admiral2303/MAOKG/tree/master/lab2)
 
