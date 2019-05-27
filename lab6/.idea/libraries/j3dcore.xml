@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="j3dcore">
+    <CLASSES>
+      <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/j3dcore.jar!/" />
+      <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/j3dutils.jar!/" />
+      <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/vecmath.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
