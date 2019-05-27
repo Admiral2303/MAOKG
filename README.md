@@ -16,7 +16,9 @@
 ![Screenshots](https://github.com/Admiral2303/MAOKG/blob/master/lab4/img1.PNG?raw=true)
 
 - [**Lab №5**](https://github.com/Admiral2303/MAOKG/tree/master/lab5)
-
-
+![Screenshots](https://github.com/Admiral2303/MAOKG/blob/master/lab5/img1.PNG)
+![Screenshots](https://github.com/Admiral2303/MAOKG/blob/master/lab5/img2.PNG)
 
 - [**Lab №6**](https://github.com/Valzavator/MAOKG/tree/master/Lab6)
+![Screenshots](https://github.com/Admiral2303/MAOKG/blob/master/lab6/img1.PNG)
+![Screenshots](https://github.com/Admiral2303/MAOKG/blob/master/lab6/img2.PNG)
